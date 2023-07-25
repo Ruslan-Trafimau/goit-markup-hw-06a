@@ -429,14 +429,13 @@
     justify-content: left;
   }
 
-  .our-team > container {
-    max-width: 552px;
-  }
   .our-team-images {
     /*max-width: 552px;*/
     gap: 24px;
     /*margin-left: 92px;*/
     flex-wrap: wrap;
+    justify-content: center
+   
   }
 
   .our-team-images-bkg {
